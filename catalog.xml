@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication8/newXmlSchema.xsd" uri="xml-resources/jaxb/test/newXmlSchema.xsd"/>
+</catalog>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Incidencias>
+    <Incidencia fechahora="2016-9-21 15:27:14">
+        <origen>agonzalez</origen>
+        <destino>jramirez</destino>
+        <detalle>La impresora no tiene toner.</detalle>
+        <tipo>Urgente</tipo>
+    </Incidencia>
+    <Incidencia fechahora="2016-9-22 10:28:37">
+        <origen>jramirez</origen>
+        <destino>afernandez</destino>
+        <detalle>No se ha entregado la documentacion de expediente EXP324.</detalle>
+        <tipo>Normal</tipo>
+    </Incidencia>
+    <Incidencia fechahora="2016-9-22 16:28:45">
+        <origen>smartinez</origen>
+        <destino>lsuarez</destino>
+        <detalle>El ordenador de recepcion no funciona.</detalle>
+        <tipo>Urgente</tipo>
+    </Incidencia>
+    <Incidencia fechahora="2016-9-22 16:28:45">
+        <origen>jramirez</origen>
+        <destino>lsuarez</destino>
+        <detalle>Mi portatil no puede acceder al wifi.</detalle>
+        <tipo>Urgente</tipo>
+    </Incidencia>
+</Incidencias>
